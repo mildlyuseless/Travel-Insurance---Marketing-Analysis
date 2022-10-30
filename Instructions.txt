@@ -1,0 +1,23 @@
+INTRODUCTION
+
+This notebook contains the case study of travel insurance from Travel Assured! Travel Assured is a travel insurance
+company. Due to the COVID pandemic, they have had to cut their marketing budget by over 50%. It is more important than
+ever that they advertise in the right places and to the right people.
+
+Travel Assured has plenty of data on their current customers as well as people who got quotes but never bought insurance.
+They want to know if there are differences in the travel habits between customers and non-customers - they believe they
+are more likely to travel often (buying tickets from frequent flyer miles) and travel abroad. Our business task is to
+uncover any insights from these data that might help the marketing strategy.
+
+ASK
+
+From our business task, we can ask the following questions:
+
+What are the differences in the travel habits between customers and non-customers?
+
+How can these travel habits be turned into marketing opportunities?
+
+PREPARE
+
+Since the data set for our project was provided by a primary data source: Travel Assured, we are assured that the data
+is reliable. However it is a good practice that we check the data before we begin to carry on any analysis.
